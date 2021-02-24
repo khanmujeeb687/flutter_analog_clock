@@ -1,8 +1,8 @@
 name: flutter_analog_clock
 description: A new Flutter package.
 version: 0.0.1
-author:
-homepage:
+author: khanmujeeb687@gmail.com
+homepage: https://github.com/khanmujeeb687/flutter_analog_clock
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
